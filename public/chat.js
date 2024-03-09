@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:3000";
+const baseUrl = "http://44.204.34.202:3000";
 const form = document.getElementById("send-message");
 const token = localStorage.getItem("token");
 const profile = document.getElementById("profile");
